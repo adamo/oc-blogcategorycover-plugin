@@ -2,10 +2,13 @@
 
 return [
     'plugin' => [
-        'name' => 'CategoriesAddon',
-        'description' => 'No description provided yet...',
+        'name' => 'Blog categories addons',
+        'description' => 'Created new fields for RainLab Blog.',
+    ],
+    'category' => [
+    	'featured_image' => 'Category featured image',
     ],
     'permissions' => [
-        'some_permission' => 'Permission example',
+        'access_blog' => 'Access blog posts',
     ],
 ];

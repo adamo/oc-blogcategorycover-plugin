@@ -9,6 +9,6 @@ return [
     	'featured_image' => 'Zdjęcie kategorii',
     ],
     'permissions' => [
-        'some_permission' => 'depcore.categoriesaddon::lang.permissions.some_permission',
+        'access_blog' => 'Tworzenie postów',
     ],
 ];
